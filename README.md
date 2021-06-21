@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 A React app- ToDo List app where a user can create a list of things which he has planned for himself to do. 
+Successfully hosted :https://todorctapp.herokuapp.com/
 
 ## Available Scripts
 
